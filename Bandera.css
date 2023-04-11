@@ -1,0 +1,74 @@
+.body
+{
+    background-color: #ffffffff;
+}
+.c3 ul{
+    background-color: #39A900 ;
+    width: 10%0px;
+    height: 10px;
+    margin: 20px;
+    padding: 20px;
+    position: relative;
+    top: -20px;
+    list-style-type: none;
+    text-align: center;
+    font-family: 'Alegreya', serif;
+font-family: 'Arvo', serif;
+font-family: 'Heebo', sans-serif;
+font-family: 'Kanit', sans-serif;
+}
+.c3 li{
+    display: inline;
+    text-align: center;
+    margin: 0 10px 0 0;
+    font-family: 'Alegreya', serif;
+    font-family: 'Arvo', serif;
+    font-family: 'Heebo', sans-serif;
+    font-family: 'Kanit', sans-serif;
+}
+.c3 a
+{
+    text-decoration:none;
+    color: #f1f1f1f1;
+    padding: 2px 7px 2px 7px;
+    font-family: 'Alegreya', serif;
+font-family: 'Arvo', serif;
+font-family: 'Heebo', sans-serif;
+font-family: 'Kanit', sans-serif;
+}
+.c4
+{
+   font-family: 'Arvo', serif;
+   font-size: 32px;
+   position: relative;
+   left: 800px;
+   top: 20px;
+   font-family: 'Alegreya', serif;
+font-family: 'Arvo', serif;
+font-family: 'Heebo', sans-serif;
+font-family: 'Kanit', sans-serif;
+}
+.c5
+{
+    font-family: 'Alegreya', serif;
+    font-size: 24px;
+    position: relative;
+    left:400px ;
+    top: 60px;
+    font-family: 'Alegreya', serif;
+font-family: 'Arvo', serif;
+font-family: 'Heebo', sans-serif;
+font-family: 'Kanit', sans-serif;
+}
+.c6
+{
+    width: 300px;
+    height: 350px;
+    position: relative;
+    top: 100px;
+    left: 800px;
+    font-family: 'Alegreya', serif;
+font-family: 'Arvo', serif;
+font-family: 'Heebo', sans-serif;
+font-family: 'Kanit', sans-serif;
+}
